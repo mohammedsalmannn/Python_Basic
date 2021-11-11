@@ -1,3 +1,10 @@
+'''
+* @Author: Mohammed Salman
+* @Date: 2021-11-08 10:59:33
+* @Last Modified by:   Mohammed Salman
+* @Last Modified time: 2021-11-08 10:59:33
+* @Title: Program to find the flip percent of head and tail 
+'''
 import random
 
 def flipCoin():
