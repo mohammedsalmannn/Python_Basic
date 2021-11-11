@@ -1,3 +1,12 @@
+'''
+* @Author: Mohammed Salman
+* @Date: 2021-11-10 11:45:03
+* @Last Modified by:   Mohammed Salman
+* @Last Modified time: 2021-11-10 11:45:03
+* @Title:Function to print 2 Dimensional Array.
+
+'''
+
 def two_dimentional_array():
     try:
         rows = int(input("Enter The Number Of Rows:")) 
