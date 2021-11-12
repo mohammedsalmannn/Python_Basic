@@ -1,3 +1,12 @@
+'''
+* @Author: Mohammed Salman
+* @Date: 2021-11-10 03:23:06
+* @Last Modified by:  Mohammed Salman
+* @Last Modified time: 2021-11-10 03:23:06
+* @Title: To play a Cross Game or Tic-Tac-Toe Game. Player 1 is Computer and Player 2 is the user.Player 1 take Random Cell i.e column or row. 
+'''
+
+
 current_player = "X"
 winner=None
 game=True
